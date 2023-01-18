@@ -1,0 +1,8 @@
+C:\Users\INSIGNIA PC\source\repos\Modulus_Operator\Modulus_Operator\bin\Debug\Modulus_Operator.exe.config
+C:\Users\INSIGNIA PC\source\repos\Modulus_Operator\Modulus_Operator\bin\Debug\Modulus_Operator.exe
+C:\Users\INSIGNIA PC\source\repos\Modulus_Operator\Modulus_Operator\bin\Debug\Modulus_Operator.pdb
+C:\Users\INSIGNIA PC\source\repos\Modulus_Operator\Modulus_Operator\obj\Debug\Modulus_Operator.csproj.AssemblyReference.cache
+C:\Users\INSIGNIA PC\source\repos\Modulus_Operator\Modulus_Operator\obj\Debug\Modulus_Operator.csproj.SuggestedBindingRedirects.cache
+C:\Users\INSIGNIA PC\source\repos\Modulus_Operator\Modulus_Operator\obj\Debug\Modulus_Operator.csproj.CoreCompileInputs.cache
+C:\Users\INSIGNIA PC\source\repos\Modulus_Operator\Modulus_Operator\obj\Debug\Modulus_Operator.exe
+C:\Users\INSIGNIA PC\source\repos\Modulus_Operator\Modulus_Operator\obj\Debug\Modulus_Operator.pdb
